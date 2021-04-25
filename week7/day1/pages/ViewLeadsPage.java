@@ -17,4 +17,8 @@ public ViewLeadsPage verifyEdit() {
 System.out.println("Editing done");
 return this;
 }
+public ViewLeadsPage verifyFirstName() {
+System.out.println("verified First name");
+return this;
+}
 }
